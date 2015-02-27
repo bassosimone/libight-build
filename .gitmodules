@@ -13,3 +13,6 @@
 [submodule "Catch"]
 	path = Catch
 	url = https://github.com/bassosimone/Catch
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/bassosimone/libevent
