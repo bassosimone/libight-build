@@ -7,3 +7,9 @@
 [submodule "boost"]
 	path = boost
 	url = https://github.com/bassosimone/boost
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/bassosimone/yaml-cpp
+[submodule "Catch"]
+	path = Catch
+	url = https://github.com/bassosimone/Catch
