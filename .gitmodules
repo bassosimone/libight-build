@@ -1,0 +1,6 @@
+[submodule "libight"]
+	path = libight
+	url = https://github.com/TheTorProject/libight
+[submodule "http-parser"]
+	path = http-parser
+	url = https://github.com/bassosimone/http-parser
